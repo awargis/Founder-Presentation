@@ -1,0 +1,6 @@
+{
+  "name": "AURA — Founder Presentation",
+  "description": "AURA Founder Level Presentation — One Identity. Infinite Opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
